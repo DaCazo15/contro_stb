@@ -53,8 +53,8 @@ python control.py
 ## 🎈 Usage <a name="usage"></a>
 
 1. Ejecuta `control.py` para abrir la interfaz gráfica.
-2. Usa los botones de navegación para enviar comandos al STB.
-3. Ingresa un código de acceso en el campo correspondiente y presiona "Cargar" para enviarlo.
+2. Usa los botones de navegación para enviar comandos al Robot.
+4. Ingresa un código de acceso en el campo correspondiente y presiona "Cargar" para enviarlo.
 
 La aplicación se conecta automáticamente al primer puerto serial disponible (excluyendo COM3).
 
