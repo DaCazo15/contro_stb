@@ -3,7 +3,7 @@
  <img width=200px height=200px src="./assets/logo.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Control STB</h3>
+<h3 align="center">Control Remoto</h3>
 
 ---
 
