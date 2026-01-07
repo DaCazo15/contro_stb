@@ -3,7 +3,7 @@
  <img width=200px height=200px src="./assets/logo.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Control Remoto</h1>
+<h1 align="center">Testing Car Arduino</h1>
 
 ---
 
